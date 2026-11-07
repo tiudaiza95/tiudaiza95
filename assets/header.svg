@@ -1,0 +1,132 @@
+<svg width="100%" height="100%" viewBox="0 0 950 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080D1A"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#050814"/>
+    </linearGradient>
+
+    <!-- Glowing Orbs -->
+    <radialGradient id="orbCyan" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbPurple" cx="80%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbPink" cx="50%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Wave Gradients -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <!-- Tech Grid Pattern -->
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M 35 0 L 0 0 0 35" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes pulseOrb {
+      0% { opacity: 0.25; transform: scale(0.98); }
+      50% { opacity: 0.45; transform: scale(1.02); }
+      100% { opacity: 0.25; transform: scale(0.98); }
+    }
+    .pulsing-orb {
+      animation: pulseOrb 6s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .title-text {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      font-weight: 900;
+      font-size: 36px;
+      letter-spacing: 3.5px;
+    }
+    .subtitle-text {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 14.5px;
+      letter-spacing: 2.8px;
+      fill: #94A3B8;
+    }
+    .badge-text {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 11.5px;
+      letter-spacing: 0.8px;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="950" height="260" rx="16" fill="url(#bgGrad)"/>
+  <rect width="950" height="260" rx="16" fill="url(#grid)"/>
+
+  <!-- Ambient Glowing Orbs -->
+  <circle cx="160" cy="75" r="220" fill="url(#orbCyan)" class="pulsing-orb"/>
+  <circle cx="820" cy="90" r="250" fill="url(#orbPurple)" class="pulsing-orb"/>
+  <circle cx="480" cy="200" r="180" fill="url(#orbPink)" class="pulsing-orb"/>
+
+  <!-- Top Terminal Bar -->
+  <circle cx="35" cy="30" r="6" fill="#FF5F56"/>
+  <circle cx="55" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="75" cy="30" r="6" fill="#27C93F"/>
+  <text x="105" y="34" fill="#64748B" font-family="'Fira Code', 'Consolas', monospace" font-size="12" font-weight="600">~/tiudaiza95/automation-core/profile.sh</text>
+
+  <!-- Decorative Dotted Line -->
+  <line x1="100" y1="55" x2="850" y2="55" stroke="#1E293B" stroke-width="1" stroke-dasharray="6 6"/>
+
+  <!-- Main Title -->
+  <g id="header-title">
+    <text x="477" y="123" text-anchor="middle" fill="#032D60" class="title-text" opacity="0.5">TIUDAIZA95 • CRAFTER &amp; AUTOMATOR</text>
+    <text x="475" y="121" text-anchor="middle" fill="url(#textGrad)" class="title-text">TIUDAIZA95 • CRAFTER &amp; AUTOMATOR</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="475" y="155" text-anchor="middle" class="subtitle-text">INTELLIGENT AUTOMATION  •  SYSTEM OPTIMIZATION  •  WINDOWS EXPERT</text>
+
+  <!-- Feature Pills -->
+  <g transform="translate(130, 175)">
+    <!-- Pill 1: Smart Automation -->
+    <rect x="0" y="0" width="165" height="28" rx="14" fill="#0F172A" stroke="#00F2FE" stroke-width="1.2" fill-opacity="0.9"/>
+    <text x="82" y="18" text-anchor="middle" fill="#38BDF8" class="badge-text">⚡ Smart Automation</text>
+
+    <!-- Pill 2: System Performance -->
+    <rect x="175" y="0" width="175" height="28" rx="14" fill="#0F172A" stroke="#8B5CF6" stroke-width="1.2" fill-opacity="0.9"/>
+    <text x="262" y="18" text-anchor="middle" fill="#C084FC" class="badge-text">🛠️ System Optimizer</text>
+
+    <!-- Pill 3: AI Application -->
+    <rect x="360" y="0" width="160" height="28" rx="14" fill="#0F172A" stroke="#EC4899" stroke-width="1.2" fill-opacity="0.9"/>
+    <text x="440" y="18" text-anchor="middle" fill="#F472B6" class="badge-text">🧠 AI Intelligence</text>
+
+    <!-- Pill 4: Native Windows Tools -->
+    <rect x="530" y="0" width="160" height="28" rx="14" fill="#0F172A" stroke="#10B981" stroke-width="1.2" fill-opacity="0.9"/>
+    <text x="610" y="18" text-anchor="middle" fill="#34D399" class="badge-text">🚀 Native Windows</text>
+  </g>
+
+  <!-- Flowing Bottom Cyber Waves -->
+  <path d="M0,235 C180,215 320,250 500,230 C680,210 820,245 950,230 L950,260 L0,260 Z" fill="url(#wave1)"/>
+  <path d="M0,245 C200,230 360,255 540,240 C720,225 840,250 950,245 L950,260 L0,260 Z" fill="url(#wave2)"/>
+
+  <!-- Border Highlight -->
+  <rect x="1" y="1" width="948" height="258" rx="15" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.7"/>
+</svg>
