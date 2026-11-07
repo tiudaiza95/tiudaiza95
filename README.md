@@ -179,26 +179,38 @@
 
 <!-- GITHUB ACTIVITY & METRICS -->
 <div align="center">
-  <h3>📊 Hoạt Động &amp; Thống Kê (GitHub Activity &amp; Metrics)</h3>
+  <h3>📊 Hoạt Động Kỹ Thuật (GitHub Activity &amp; Metrics)</h3>
   <br/>
 
   <!-- Side-by-side stats -->
   <table border="0">
     <tr>
       <td align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=tiudaiza95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiudaiza95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiudaiza95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img height="185em" src="https://streak-stats.demolab.com/?user=tiudaiza95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Top languages -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiudaiza95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiudaiza95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <h3>🐍 GitHub Contribution Matrix</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br/>
