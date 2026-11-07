@@ -182,22 +182,17 @@
   <h3>📊 Hoạt Động Kỹ Thuật (GitHub Activity &amp; Metrics)</h3>
   <br/>
 
-  <!-- Side-by-side stats -->
+  <!-- Side-by-side stats & languages -->
   <table border="0">
     <tr>
       <td align="center">
         <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiudaiza95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="185em" src="https://streak-stats.demolab.com/?user=tiudaiza95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiudaiza95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiudaiza95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
