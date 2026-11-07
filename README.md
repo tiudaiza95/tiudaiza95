@@ -1,13 +1,13 @@
 <!-- HEADER BANNER AREA -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/header.svg" width="100%" alt="tiudaiza95 - Automation & Software Crafter Header Banner" />
+  <img src="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/header.svg" width="100%" alt="Ngô Tấn Thịnh (tiudaiza95) - Automation & Software Crafter Header Banner" />
 </div>
 
 <!-- TYPING ANIMATION & INTRO -->
 <div align="center">
 
   <a href="https://github.com/tiudaiza95">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=740&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+tiudaiza95+%F0%9F%91%8B;%C4%90am+m%C3%AA+T%E1%BB%B1+%C4%91%E1%BB%99ng+ho%C3%A1+th%C3%B4ng+minh+%26+Ch%E1%BA%BF+t%E1%BA%A1o+c%C3%B4ng+c%E1%BB%A5+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+ho%C3%A1+hi%E1%BB%87u+n%C4%83ng+h%E1%BB%87+th%E1%BB%91ng+%E2%80%A2+Native+Windows+%F0%9F%9A%80;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+gi%E1%BA%A3i+ph%C3%A1p+th%E1%BB%B1c+chi%E1%BA%BFn!+%E2%9C%A8" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=740&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Ng%C3%B4+T%E1%BA%A5n+Th%E1%BB%8Bnh+(tiudaiza95)+%F0%9F%91%8B;%C4%90am+m%C3%AA+T%E1%BB%B1+%C4%91%E1%BB%99ng+ho%C3%A1+th%C3%B4ng+minh+%26+Ch%E1%BA%BF+t%E1%BA%A1o+c%C3%B4ng+c%E1%BB%A5+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+ho%C3%A1+hi%E1%BB%87u+n%C4%83ng+h%E1%BB%87+th%E1%BB%91ng+%E2%80%A2+Native+Windows+%F0%9F%9A%80;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+gi%E1%BA%A3i+ph%C3%A1p+th%E1%BB%B1c+chi%E1%BA%BFn!+%E2%9C%A8" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -15,6 +15,7 @@
   <!-- BADGES / PROFILE STATS -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tiudaiza95&label=PROFILE+VIEWS&color=00ADB5&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Author-Ng%C3%B4_T%E1%BA%A5n_Th%E1%BB%8Bnh-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Author" />
     <img src="https://img.shields.io/badge/Focus-Smart_Automation-00D2FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="Focus" />
     <img src="https://img.shields.io/badge/Platform-Native_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform" />
     <img src="https://img.shields.io/badge/Location-Vietnam_%F0%9F%87%BB%F0%9F%87%B3-DA251D?style=for-the-badge" alt="Location" />
@@ -33,9 +34,9 @@
 <table border="0">
   <tr>
     <td width="62%" valign="top">
-      <h3>👨‍💻 Về Mình (About Me)</h3>
+      <h3>👨‍💻 Về Ngô Tấn Thịnh (About Me)</h3>
       <p>
-        Xin chào! Mình là <b>tiudaiza95</b> — một người say mê <b>tự động hoá thông minh, chế tạo công cụ phần mềm</b> và tối ưu hoá hiệu năng máy tính. Mình luôn tìm kiếm những cách tân tiến nhất để biến những quy trình thủ công phức tạp thành những giải pháp 1-click mượt mà, tốc độ và tiện ích cho người dùng.
+        Xin chào! Mình là <b>Ngô Tấn Thịnh</b> (thường được biết đến với nickname <b>tiudaiza95</b>) — một người say mê <b>tự động hoá thông minh, chế tạo công cụ phần mềm</b> và tối ưu hoá hiệu năng máy tính. Mình luôn tìm kiếm những cách tân tiến nhất để biến những quy trình thủ công phức tạp thành những giải pháp 1-click mượt mà, tốc độ và tiện ích cho người dùng.
       </p>
       <ul>
         <li>⚡ <b>Tự động hoá thông minh:</b> Khai phá sức mạnh của AI, scripts và automation pipelines để giải phóng sức lao động, nâng cao hiệu suất làm việc vượt trội.</li>
@@ -45,7 +46,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="tiudaiza95 Coding Animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Ngô Tấn Thịnh Coding Animation" />
     </td>
   </tr>
 </table>
@@ -204,5 +205,5 @@
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/footer.svg" width="100%" alt="tiudaiza95 Footer Banner" />
+  <img src="https://raw.githubusercontent.com/tiudaiza95/tiudaiza95/main/assets/footer.svg" width="100%" alt="Ngô Tấn Thịnh (tiudaiza95) Footer Banner" />
 </div>
